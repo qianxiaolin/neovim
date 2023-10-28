@@ -1,0 +1,8 @@
+require("plugins.plugins-setup")  
+require("plugins.lualine")
+require("plugins/nvim-tree")
+require("core.keymaps")
+require("core.opts")
+--require("plugins/treesitter")
+--require("plugins/lsp")
+--require("plugins/cmp")
